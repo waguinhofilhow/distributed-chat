@@ -67,14 +67,12 @@ npm install
 cd auth-service  
 npm run dev   # ou npm start
 
-# Chat Service
-
-cd chat-service
+#Chat Service  
+cd chat-service  
 npm run dev   # ou npm start
 
-# Frontend
-
-cd frontend
+#Frontend  
+cd frontend  
 npm run dev
 
 O frontend será servido normalmente em http://localhost:5173/ (ou porta configurada pelo Vite).
@@ -83,16 +81,15 @@ O frontend será servido normalmente em http://localhost:5173/ (ou porta configu
 
 ## Testes Unitários
 
-Auth Service: validação de credenciais, criação de usuário.
+Auth Service: validação de credenciais, criação de usuário.  
+Chat Service: persistência de mensagens no banco.  
 
-Chat Service: persistência de mensagens no banco.
-
-# Auth Service
-cd auth-service
+#Auth Service  
+cd auth-service  
 npm test
 
-# Chat Service
-cd ../chat-service
+#Chat Service  
+cd ../chat-service  
 npm test
 
 ---
