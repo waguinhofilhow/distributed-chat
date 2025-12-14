@@ -6,10 +6,10 @@ Plataforma de comunicação em tempo real com múltiplos usuários, usando arqui
 
 ## Estrutura do Projeto
 
-projeto-chat/ 
-├─ auth-service/ # Serviço de autenticação e usuários 
-├─ chat-service/ # Serviço de mensagens / chat em tempo real 
-├─ frontend/ # Interface do usuário 
+projeto-chat/  
+├─ auth-service/ # Serviço de autenticação e usuários  
+├─ chat-service/ # Serviço de mensagens / chat em tempo real  
+├─ frontend/ # Interface do usuário  
 └─ README.md
 
 ---
