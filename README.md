@@ -47,25 +47,24 @@ projeto-chat/
 
 Para cada serviço e frontend:
 
-# Auth Service
-cd auth-service
+#Auth Service  
+cd auth-service  
 npm install
 
-# Chat Service
-cd ../chat-service
+#Chat Service  
+cd ../chat-service  
 npm install
 
-# Frontend
-cd ../frontend
+#Frontend  
+cd ../frontend  
 npm install
 
 ---
 
 ## Execução
 
-# Auth Service
-
-cd auth-service
+#Auth Service  
+cd auth-service  
 npm run dev   # ou npm start
 
 # Chat Service
